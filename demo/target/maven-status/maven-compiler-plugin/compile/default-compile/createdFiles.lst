@@ -1,3 +1,5 @@
+com\example\Chef.class
+com\example\OrderComparator.class
 com\example\Customer.class
 com\example\App.class
-com\example\Chef.class
+com\example\Order.class
